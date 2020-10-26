@@ -1,0 +1,21 @@
+{
+    "k3db":{
+        "server": "192.168.4.7",
+        "database":"AIS20200704210901",
+        "user":"sa",
+        "password":"105358",
+        "options":{
+            "encrypt":false
+        }
+    },
+    "middb":{
+        "server":"127.0.0.1",
+        "database":"IDB_SG",
+        "user":"idb",
+        "password":"suncoo123",
+        "options":{
+            "encrypt":false
+        }
+    },
+    "port":9999
+}
